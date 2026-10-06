@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+  <!-- Globe Outer Sphere -->
+  <circle cx="17.5" cy="20" r="13" stroke="#FF5A3C" stroke-width="2.3"/>
+  <!-- Equator Line -->
+  <line x1="4.5" y1="20" x2="30.5" y2="20" stroke="#FF5A3C" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Central Meridian Ellipse -->
+  <ellipse cx="17.5" cy="20" rx="6.5" ry="13" stroke="#FF5A3C" stroke-width="2.2"/>
+  <!-- Location Pin with White Border for clean contrast -->
+  <path d="M29 22C26.5 22 24.5 24 24.5 26.5C24.5 30 29 35.5 29 35.5C29 35.5 33.5 30 33.5 26.5C33.5 24 31.5 22 29 22Z" fill="#FF5A3C" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Pin Center Dot -->
+  <circle cx="29" cy="26.5" r="1.5" fill="#FFFFFF"/>
+</svg>

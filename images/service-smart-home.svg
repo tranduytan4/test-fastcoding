@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none">
+  <!-- Chimney on Right of Roof -->
+  <rect x="23" y="10" width="3.2" height="6" rx="0.5" fill="#FF5A3C"/>
+  <!-- Pitched Roof -->
+  <path d="M18.5 8L7.5 18H29.5L18.5 8Z" fill="#FF5A3C"/>
+  <!-- House Base Body -->
+  <path d="M9.5 17H27.5V28C27.5 29.1 26.6 30 25.5 30H11.5C10.4 30 9.5 29.1 9.5 28V17Z" fill="#FF5A3C"/>
+  <!-- White Circular Base / Cutout for Coin Badge -->
+  <circle cx="28" cy="27" r="6.5" fill="#FFFFFF"/>
+  <!-- Orange Coin Badge -->
+  <circle cx="28" cy="27" r="5" fill="#FF5A3C"/>
+  <!-- White Dollar Sign -->
+  <path d="M28 23.5V24.3M28 29.7V30.5M29.5 25.6C29.5 24.9 28.8 24.3 28 24.3C27.2 24.3 26.5 24.8 26.5 25.5C26.5 26.4 27.2 26.7 28 27C28.8 27.3 29.5 27.7 29.5 28.6C29.5 29.4 28.8 29.9 28 29.9C27.2 29.9 26.5 29.3 26.5 28.6" stroke="#FFFFFF" stroke-width="1.15" stroke-linecap="round"/>
+</svg>

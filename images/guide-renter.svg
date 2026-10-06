@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none">
+  <!-- Person head -->
+  <circle cx="18" cy="11.5" r="5.5" fill="#FFFFFF"/>
+  <!-- Person body -->
+  <path d="M8 32C8 26.2 12.5 21.5 18 21.5C21.6 21.5 24.8 23.3 26.5 26.2C24.7 27.8 23.5 30 23.5 32.5H8V32Z" fill="#FFFFFF"/>
+  <!-- Coin badge on bottom right -->
+  <circle cx="30.5" cy="29.5" r="7" fill="#FFFFFF" stroke="#FF5A3C" stroke-width="1.8"/>
+  <text x="30.5" y="32.8" font-family="'Poppins', sans-serif" font-weight="700" font-size="8.5" fill="#FF5A3C" text-anchor="middle">$</text>
+</svg>

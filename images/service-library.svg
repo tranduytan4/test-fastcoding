@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none">
+  <!-- Box Lid -->
+  <rect x="9" y="12" width="24" height="6" rx="1.5" fill="#FF5A3C"/>
+  <!-- Box Body -->
+  <path d="M10.5 19H31.5V28.5C31.5 29.8 30.5 31 29 31H13C11.5 31 10.5 29.8 10.5 28.5V19Z" fill="#FF5A3C"/>
+  <!-- Center White Handle / Latch Lobe -->
+  <rect x="18" y="15.5" width="6" height="5.5" rx="1.2" fill="#FFFFFF"/>
+</svg>

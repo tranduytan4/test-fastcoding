@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46" fill="none">
+  <!-- Arrow 1 (Left - Short) -->
+  <path d="M6 31L11 25L16 31H13.4V38C13.4 39.1 12.3 40 11 40C9.7 40 8.6 39.1 8.6 38V31H6Z" fill="#FF5A3C"/>
+
+  <!-- Arrow 2 (Middle - Medium, directly below coin) -->
+  <path d="M18 25.5L23 19.5L28 25.5H25.4V38C25.4 39.1 24.3 40 23 40C21.7 40 20.6 39.1 20.6 38V25.5H18Z" fill="#FF5A3C"/>
+
+  <!-- Arrow 3 (Right - Tall) -->
+  <path d="M30 19L35 13L40 19H37.4V38C37.4 39.1 36.3 40 35 40C33.7 40 32.6 39.1 32.6 38V19H30Z" fill="#FF5A3C"/>
+
+  <!-- Gold coin with dollar sign on top, centered at cx=23 -->
+  <circle cx="23" cy="10" r="8.5" fill="#FFBA57"/>
+  <circle cx="23" cy="10" r="7.2" stroke="#E89B1A" stroke-width="1.2" fill="#FFC96B"/>
+  <text x="23" y="14" font-family="'Poppins', sans-serif" font-weight="700" font-size="11" fill="#E88B1A" text-anchor="middle">$</text>
+</svg>

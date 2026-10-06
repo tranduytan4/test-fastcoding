@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none">
+  <!-- Chimney -->
+  <rect x="23.5" y="11" width="3" height="5" fill="#FF5A3C"/>
+  <!-- Roof -->
+  <path d="M17.5 8L6 18.5H10.5V32H23.5C23.5 29.8 24.6 27.8 26.2 26.5V18.5H29L17.5 8Z" fill="#FF5A3C"/>
+  <!-- Coin badge on bottom right -->
+  <circle cx="30.5" cy="29.5" r="7" fill="#FF5A3C" stroke="#FFFFFF" stroke-width="1.8"/>
+  <text x="30.5" y="32.8" font-family="'Poppins', sans-serif" font-weight="700" font-size="8.5" fill="#FFFFFF" text-anchor="middle">$</text>
+</svg>
